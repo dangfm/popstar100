@@ -1,0 +1,6 @@
+framework module ZWMusicDownLoadView {
+  umbrella header "ZWMusicDownLoadView-umbrella.h"
+
+  export *
+  module * { export * }
+}

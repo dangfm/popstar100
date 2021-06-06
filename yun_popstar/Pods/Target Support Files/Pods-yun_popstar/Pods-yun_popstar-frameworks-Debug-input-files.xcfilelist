@@ -1,0 +1,12 @@
+${PODS_ROOT}/Target Support Files/Pods-yun_popstar/Pods-yun_popstar-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/EGOCache/EGOCache.framework
+${BUILT_PRODUCTS_DIR}/FBGlowLabel/FBGlowLabel.framework
+${BUILT_PRODUCTS_DIR}/LDProgressView/LDProgressView.framework
+${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/YQImageCompressor/YQImageCompressor.framework
+${BUILT_PRODUCTS_DIR}/ZWMusicDownLoadView/ZWMusicDownLoadView.framework
+${BUILT_PRODUCTS_DIR}/pop/pop.framework

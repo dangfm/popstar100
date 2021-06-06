@@ -1,0 +1,105 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Bytedance-UnionAD (3.2.6.2)
+  - EGOCache (2.2.0)
+  - FBGlowLabel (0.0.1)
+  - LDProgressView (1.2.1)
+  - MJExtension (3.2.2)
+  - MJRefresh (3.5.0)
+  - pop (1.0.12)
+  - SDWebImage (5.9.2):
+    - SDWebImage/Core (= 5.9.2)
+  - SDWebImage/Core (5.9.2)
+  - SVProgressHUD (2.2.5)
+  - UMCCommon (7.1.3)
+  - UMCPush (3.2.5):
+    - UMCCommon
+  - UMCSecurityPlugins (1.0.6)
+  - UMCShare/Core (6.9.10):
+    - UMCCommon
+  - UMCShare/Social/ReducedWeChat (6.9.10):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/WeChat (6.9.10):
+    - UMCCommon
+    - UMCShare/Core
+    - UMCShare/Social/ReducedWeChat
+  - UMCShare/UI (6.9.10):
+    - UMCCommon
+    - UMCShare/Core
+  - YQImageCompressor (1.0.0)
+  - ZWMusicDownLoadView (1.1.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Bytedance-UnionAD
+  - EGOCache
+  - FBGlowLabel
+  - LDProgressView
+  - MJExtension
+  - MJRefresh
+  - pop (~> 1.0)
+  - SDWebImage
+  - SVProgressHUD
+  - UMCCommon
+  - UMCPush
+  - UMCSecurityPlugins
+  - UMCShare/Social/WeChat
+  - UMCShare/UI
+  - YQImageCompressor
+  - ZWMusicDownLoadView
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Bytedance-UnionAD
+    - EGOCache
+    - FBGlowLabel
+    - LDProgressView
+    - MJExtension
+    - MJRefresh
+    - pop
+    - SDWebImage
+    - SVProgressHUD
+    - UMCCommon
+    - UMCPush
+    - UMCSecurityPlugins
+    - UMCShare
+    - YQImageCompressor
+    - ZWMusicDownLoadView
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Bytedance-UnionAD: ee419a461654e1c2338b5f6b0b2224617b230640
+  EGOCache: 191fd213da6804d487b49b1a91772ba904f3e324
+  FBGlowLabel: ae836c01b13e9d55931799c6a034f93b4b47825b
+  LDProgressView: f6afc7c30d2a9edf33001515f3189338567a32d2
+  MJExtension: d9b9c74cbdeb724c1e9ecbb157b318276e62e876
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  SDWebImage: 0b42b8719ab0c5257177d5894306e8a336b21cbb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  UMCCommon: 0cb2629b93884531621100ed66ff2bca8b181f1f
+  UMCPush: 078b5818e0e47c4cf8ab42a5a30e8b54a0854077
+  UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
+  UMCShare: a4a95fbdd61ecce5b6751d8c9ed9b519e80fcbc9
+  YQImageCompressor: ed98546ca6aa0b4f4b3ed16067102911b8711531
+  ZWMusicDownLoadView: e78b72710b09c1c595f0f303053765e3cfe3b798
+
+PODFILE CHECKSUM: c3711aa87d43bb4be6772c416409cd3c796d5e3c
+
+COCOAPODS: 1.10.1

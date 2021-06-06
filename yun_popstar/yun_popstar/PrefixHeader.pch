@@ -1,0 +1,59 @@
+//
+//  PrefixHeader.pch
+//  yun_popstar
+//
+//  Created by dangfm on 2020/6/9.
+//  Copyright © 2020 fangyun. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "AppDelegate.h"
+#import "FMGlobalDefines.h"
+#import "POP.h"
+#import "YunConfig.h"
+#import "UIImage+Category.h"
+#import "YunPopstarSay.h"
+#import "YunPopstarShowMsgView.h"
+#import "YunPopstarPassRewardView.h"
+#import <FBGlowLabel/FBGlowLabel.h>
+#import "UIView+Explode.h"
+#import "UIButton+Popstar.h"
+#import "YunLabel.h"
+#import "YunShowMsg.h"
+#import "YunPopstarSay.h"
+#import "YunWebView.h"
+#import <MJExtension/MJExtension.h>
+#import "NSString+stocking.h"
+#import "YunGetGoldView.h"
+#import "MCSteamView.h"
+#import <AFNetworking/AFNetworking.h>
+#import "FMHelper.h"
+#import "FMHttpRequest.h"
+#import <SVProgressHUD/SVProgressHUD.h>
+#import <ZWMusicDownLoadView/ZWMusicDownLoadView.h>
+#import <LDProgressView/LDProgressView.h>
+#import "IBAlertView.h"
+#import <MJRefresh/MJRefresh.h>
+#import "UITableView+Empty.h"
+#import "YunWebViewController.h"
+#import <SDWebImage.h>
+#import "YunStarPlayView.h"
+#import "YunPopstarBackgroundImageView.h"
+// 友盟
+#import <UMCommon/UMCommon.h>
+#import <UMCommon/MobClick.h>
+#import <UMShare/UMShare.h>
+#import <UShareUI/UShareUI.h>
+#import <UMSocialWechatHandler.h>
+#import <UMPush/UMessage.h>
+// 穿山甲
+#import <BUAdSDK/BUAdSDK.h>
+// 巨量
+//#import <BDAutoTrack.h>
+//#import <BDAutoTrack+Game.h>"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */

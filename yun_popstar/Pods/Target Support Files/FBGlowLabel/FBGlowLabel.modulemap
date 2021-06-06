@@ -1,0 +1,6 @@
+framework module FBGlowLabel {
+  umbrella header "FBGlowLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

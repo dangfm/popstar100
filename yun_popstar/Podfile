@@ -1,0 +1,26 @@
+platform :ios, '10.0'
+use_frameworks!
+
+target 'yun_popstar' do
+  pod 'AFNetworking'
+  pod 'FBGlowLabel'
+  pod 'SVProgressHUD'
+  pod 'UMCCommon'
+  pod 'UMCPush'
+  # U-Share SDK UI模块（分享面板，建议添加）
+  pod 'UMCShare/UI'
+  # 集成微信(完整版14.4M)
+  pod 'UMCShare/Social/WeChat'
+  pod 'UMCSecurityPlugins'
+  pod 'Bytedance-UnionAD'
+  pod 'MJExtension'
+  pod 'ZWMusicDownLoadView'
+  pod 'LDProgressView'
+  pod 'SDWebImage'
+  pod 'MJRefresh'
+  pod 'EGOCache'
+#  pod 'Luban_iOS'
+  pod 'YQImageCompressor'
+  #pod 'RangersAppLog', '~> 3.2.9'
+  pod 'pop', '~> 1.0'
+end

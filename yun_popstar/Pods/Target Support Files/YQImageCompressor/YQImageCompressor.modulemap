@@ -1,0 +1,6 @@
+framework module YQImageCompressor {
+  umbrella header "YQImageCompressor-umbrella.h"
+
+  export *
+  module * { export * }
+}

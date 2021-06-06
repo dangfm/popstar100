@@ -1,0 +1,6 @@
+framework module Pods_yun_popstar {
+  umbrella header "Pods-yun_popstar-umbrella.h"
+
+  export *
+  module * { export * }
+}
